@@ -1,0 +1,1 @@
+This is the PNR Checking application for Firefox OS (though the layout has been built yet). The layout is responsive. It will adapt to the size of the device screen. Zurb Foundation and fundamental CSS3 media query has been used.

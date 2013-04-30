@@ -1,0 +1,25 @@
+#introduction
+{
+margin-top: 20;
+}
+#pnrTable
+{
+width: 100%;
+background: -moz-linear-gradient(#fff, #aaa);
+background: -webkit-linear-gradient(#fff, #aaa);
+background: -o-linear-gradient(#fff, #aaa);
+}
+#pnr_number
+{
+width: 90%;
+margin-left: 5%;
+}
+a
+{
+text-decoration: none;
+}
+.align-button
+{
+text-align: center;
+}
+
